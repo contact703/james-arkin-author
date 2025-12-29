@@ -212,7 +212,7 @@ function App() {
             <div className="w-24 h-1 bg-primary mx-auto"></div>
             
             <p className="text-xl text-gray-300 leading-relaxed font-body">
-              James A. Arkin is a pseudonym. The author prefers to remain in the shadows, letting the stories speak for themselves. With a background in [REDACTED] and a fascination for the fragility of the human mind, Arkin crafts narratives that blur the line between scientific possibility and psychological horror.
+              JAMES A. ARKIN is an author fascinated by the fragility of memory and the scars we carry. In Thirteen Marks, he explores the terrifying line between redemption and the monsters that live inside us. When he isn't writing, he is researching the darkest corners of criminal psychology.
             </p>
             
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mt-12">
