@@ -151,7 +151,7 @@ function App() {
           <div className="max-w-4xl mx-auto">
             <div className="flex items-center gap-4 mb-8">
               <div className="h-[1px] bg-primary/50 flex-grow"></div>
-              <h2 className="text-3xl md:text-4xl font-display font-bold text-center">THE VERDICT</h2>
+              <h2 className="text-3xl md:text-4xl font-display font-bold text-center leading-tight">THE WORLD CALLS HIM A MONSTER.<br/><span className="text-primary">HE CALLS HIMSELF A GHOST.</span></h2>
               <div className="h-[1px] bg-primary/50 flex-grow"></div>
             </div>
 
@@ -184,7 +184,7 @@ function App() {
 
               <div className="space-y-6 text-lg leading-relaxed text-gray-300 font-body">
                 <p>
-                  <span className="text-primary text-2xl font-display float-left mr-2 mt-[-6px]">F</span>
+                  
                  For twenty-eight years, Horace Vance was the face of evil. Convicted for a series of brutal crimes that shocked the nation, he spent decades in isolation, known simply as "The Monster." But Horace remembers nothing. Not the crimes, not the trial, not the man he used to be. His past is a blank void – a ‘White Veil’ that nothing can break through.
                 </p>
                 <p>
