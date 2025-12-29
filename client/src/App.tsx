@@ -91,7 +91,7 @@ function App() {
               <span className="block text-primary glitch-text" data-text="MARKS">MARKS</span>
             </h1>
             <p className="text-lg md:text-xl text-text-muted max-w-lg font-body leading-relaxed border-l-2 border-primary/30 pl-4">
-              "Some scars are visible. Others are encoded in your DNA. The truth will rewrite everything you know."
+              "The world calls him a monster. He calls himself a ghost."
             </p>
             <div className="flex flex-col sm:flex-row gap-4 pt-4">
               <a 
@@ -184,17 +184,17 @@ function App() {
 
               <div className="space-y-6 text-lg leading-relaxed text-gray-300 font-body">
                 <p>
-                  <span className="text-primary text-2xl font-display float-left mr-2 mt-[-6px]">J</span>
-                  ason Harker thought he left his past behind. But when a series of cryptic messages begins to appear on his skin—thirteen marks that correspond to thirteen buried secrets—he realizes that some debts can only be paid in blood.
+                  <span className="text-primary text-2xl font-display float-left mr-2 mt-[-6px]">F</span>
+                 For twenty-eight years, Horace Vance was the face of evil. Convicted for a series of brutal crimes that shocked the nation, he spent decades in isolation, known simply as "The Monster." But Horace remembers nothing. Not the crimes, not the trial, not the man he used to be. His past is a blank void – a ‘White Veil’ that nothing can break through.
                 </p>
                 <p>
-                  As a renowned geneticist, Jason understands the code of life. But the code now rewriting his reality is something he can't explain. Is it a sophisticated bioweapon? A psychological breakdown? Or something far more ancient and terrifying?
+                  The impossible happens. On his deathbed, a renowned scientist confesses to the murders. The verdict is overturned. Horace is exonerated.
                 </p>
                 <p>
-                  With time running out and the marks spreading, Jason must race against a shadow enemy who knows his every move. But in a world where memory can be edited and identity is fluid, the most dangerous enemy might be the one staring back from the mirror.
+                  Thrust back into a world that still hates him, Horace tries to rebuild a life with the daughter he left behind. But freedom feels like another kind of prison. As he digs into the mystery of his own past to understand who he really was, inconsistencies begin to surface. Clues that don't fit the narrative of an innocent victim. A strange, intricate tattoo on his arm that he doesn't remember getting.
                 </p>
                 <blockquote className="border-l-4 border-primary pl-6 italic text-xl text-white my-8 py-2 bg-gradient-to-r from-primary/10 to-transparent">
-                  "A mind-bending journey into the darkest corners of human identity. Thirteen Marks will leave you questioning your own reflection."
+                  "Driven by a desperate need for the truth, Horace follows a trail of secrets that everyone – from his lawyer to the police – seems determined to keep buried. Is Horace a man wronged by the system? Or is his lack of memory the only thing keeping a true nightmare asleep?"
                 </blockquote>
               </div>
             </div>
