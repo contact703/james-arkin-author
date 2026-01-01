@@ -95,7 +95,7 @@ function App() {
             </p>
             <div className="flex flex-col sm:flex-row gap-4 pt-4">
               <a 
-                href="https://www.amazon.com" 
+                href="https://www.amazon.com/dp/B0GDLYMHR6" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="px-8 py-4 bg-primary text-background font-bold font-display tracking-wider hover:bg-white transition-colors duration-300 flex items-center justify-center gap-2 clip-path-slant"
@@ -176,8 +176,8 @@ function App() {
                 <div className="pt-4">
                   <p className="text-xs text-text-muted mb-2">AVAILABLE ON:</p>
                   <div className="flex gap-2">
-                    <a href="#" className="p-2 bg-white/5 hover:bg-white/10 rounded transition-colors"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" className="h-4 invert opacity-70" alt="Amazon" /></a>
-                    <a href="#" className="p-2 bg-white/5 hover:bg-white/10 rounded transition-colors"><BookOpen size={16} /></a>
+                    <a href="https://www.amazon.com/dp/B0GDLYMHR6" className="p-2 bg-white/5 hover:bg-white/10 rounded transition-colors"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" className="h-4 invert opacity-70" alt="Amazon" /></a>
+                    <a href="https://www.amazon.com/dp/B0GDM8FDTN" className="p-2 bg-white/5 hover:bg-white/10 rounded transition-colors"><BookOpen size={16} /></a>
                   </div>
                 </div>
               </div>
