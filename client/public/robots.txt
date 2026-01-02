@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jamesaarkin.vercel.app/sitemap.xml
